@@ -1,5 +1,5 @@
 <?php
-namespace SmokeBomb; 
+namespace SmokeBomb;
 
 use pocketmine\plugin\PluginBase; 
 use pocketmine\event\Listener; 
